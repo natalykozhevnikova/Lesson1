@@ -10,8 +10,8 @@
 
 
 
-x = int(input('X ≠ 0'))
-y = int(input('Y ≠ 0'))
+x = int(input('Введите x координату'))
+y = int(input('Введите y координату'))
 if x > 0 and y > 0:
     print('Точка находится в плоскости 1')
 elif x < 0 and y > 0:
